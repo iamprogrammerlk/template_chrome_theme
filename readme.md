@@ -61,20 +61,20 @@
       "toolbar_text": [0, 0, 0]
     },
     "images": {
-      "theme_frame": "images/theme_frame_camo.png",
-      "theme_frame_inactive": "images/theme_frame.png",
-      "theme_frame_incognito": "images/theme_frame.png",
-      "theme_frame_incognito_inactive": "images/theme_frame.png",
-      "theme_frame_overlay": "images/theme_frame_stripe.png",
+      "theme_frame": "images/theme_frame.png",
+      "theme_frame_inactive": "images/theme_frame_inactive.png",
+      "theme_frame_incognito": "images/theme_frame_incognito.png",
+      "theme_frame_incognito_inactive": "images/theme_frame_incognito_inactive.png",
+      "theme_frame_overlay": "images/theme_frame_overlay.png",
       "theme_frame_overlay_inactive": "images/theme_frame_overlay_inactive.png",
-      "theme_toolbar": "images/theme_toolbar_camo.png",
-      "theme_ntp_background": "images/theme_ntp_background_no_repeat.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_ntp_background": "images/theme_ntp_background.png",
       "theme_tab_background": "image/theme_tab_background.png",
-      "theme_tab_background_incognito": "images/theme_tab_background.png",
-      "theme_tab_background_inactive": "images/theme_tab_background.png",
-      "theme_tab_background_incognito_inactive": "images/theme_tab_background.png",
-      "theme_ntp_attribution": "images/attribution.png",
-      "theme_button_background": "images/theme_window_control_background.png",
+      "theme_tab_background_incognito": "images/theme_tab_background_incognito.png",
+      "theme_tab_background_inactive": "images/theme_tab_background_inactive.png",
+      "theme_tab_background_incognito_inactive": "images/theme_tab_background_incognito_inactive.png",
+      "theme_ntp_attribution": "images/theme_ntp_attribution.png",
+      "theme_button_background": "images/theme_button_background.png",
       "theme_window_control_background": "images/theme_window_control_background.png"
     },
     "tints": {
@@ -91,8 +91,8 @@
       "ntp_logo_alternate": 1
     }
   },
-  "version": "1.0",
-  "version_name": "simple_theme_v1.0.1"
+  "version": "1.0.0",
+  "version_name": "simple_theme_v1.0.0"
 }
 ```
 
