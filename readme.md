@@ -2,13 +2,19 @@
 
 # Template for Creating Chrome Browser Theme
 
+> [!TIP]
+>
+> # :star: Star This Repository
+>
+> ### Give a star to this repository if you find it useful.
+
 ### Template repository for customizing your browsing experience by designing your unique Chrome browser theme from scratch.
 
-> [!TIP]
+> [!NOTE]
 >
 > ### This theme uses Manifest V3 to ensure compatibility with the latest Chromium extension standards.
 
-## A sample of the manifest.json file containing all supported properties.
+## A sample of the `manifest.json` file containing all supported properties.
 
 ```json
 {
@@ -111,9 +117,15 @@ Please remove all unused properties from the `manifest.json` file. If you use `i
 
 ---
 
-# :star: Star This Repository
+# :toolbox: Resource
 
-Give a star to this repository if you find it useful.
+- The list of properties supported by the Chromium browser has been extracted from this source.
+
+  - https://source.chromium.org/chromium/chromium/src/+/main:chrome/browser/themes/browser_theme_pack.cc
+
+- Theme Creation Guide By Patrick Batenburg
+
+  - https://github.com/Patrick-Batenburg/GoogleChromeThemeCreationGuide
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -204,13 +216,3 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-
-# Resource
-
-- The list of properties supported by the Chromium browser has been extracted from this source.
-
-  - https://source.chromium.org/chromium/chromium/src/+/main:chrome/browser/themes/browser_theme_pack.cc
-
-- Theme Creation Guide By Patrick Batenburg
-
-  - https://github.com/Patrick-Batenburg/GoogleChromeThemeCreationGuide
