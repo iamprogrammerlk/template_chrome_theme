@@ -1,8 +1,17 @@
 <a name="readme-top"></a>
 
-# PROJECT_TITLE
+# Template for Creating Chrome Browser Theme
 
-> PROJECT_DESCRIPTION
+## Template repository for customizing your browsing experience by designing your unique Chrome browser theme from scratch.
+
+<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## :star: Star This Repository
+
+Give a star to this repository if you find it useful.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
