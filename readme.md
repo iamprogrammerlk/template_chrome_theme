@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Template for Creating Chrome Browser Theme
+# Template for Creating Chromium-based Web Browser Theme
 
 > [!TIP]
 >
@@ -8,7 +8,20 @@
 >
 > ### Give a star to this repository if you find it useful.
 
-### Template repository for customizing your browsing experience by designing your unique Chrome browser theme from scratch.
+### Template repository for customizing your browsing experience by designing your unique Chromium-based web browser theme from scratch.
+
+## List of Chromium-based Web Browsers
+
+| Browser | Tested | Theme Supported | Browser Developer |
+| --- | --- | --- | --- |
+| Google Chrome | :white_check_mark: | :white_check_mark: | Google |
+| Microsoft Edge | :white_check_mark: | :white_check_mark: | Microsoft |
+| Ungoogle Chromium | :white_check_mark: | :white_check_mark: | Slimjet |
+| Vivaldi | :red_circle: | :ballot_box_with_check: | Vivaldi Technologies |
+| Opera | :red_circle: | :ballot_box_with_check: | Opera Software |
+| Brave | :red_circle: | :ballot_box_with_check: | Brave Software |
+| Arc | :red_circle: | :ballot_box_with_check: | Arc Browser Team |
+|  |  |  |  |
 
 > [!NOTE]
 >
