@@ -14,13 +14,12 @@
 
 | Browser | Tested | Theme Supported | Browser Developer |
 | --- | --- | --- | --- |
-| Google Chrome | :white_check_mark: | :white_check_mark: | Google |
-| Microsoft Edge | :white_check_mark: | :white_check_mark: | Microsoft |
-| Ungoogle Chromium | :white_check_mark: | :white_check_mark: | Slimjet |
-| Vivaldi | :red_circle: | :ballot_box_with_check: | Vivaldi Technologies |
-| Opera | :red_circle: | :ballot_box_with_check: | Opera Software |
-| Brave | :red_circle: | :ballot_box_with_check: | Brave Software |
-| Arc | :red_circle: | :ballot_box_with_check: | Arc Browser Team |
+| [Google Chrome](https://www.google.com/chrome/) | :white_check_mark: | :white_check_mark: | Google |
+| [Microsoft Edge](https://www.microsoft.com/en-us/edge) | :white_check_mark: | :white_check_mark: | Microsoft |
+| [Ungoogle Chromium](https://github.com/ungoogled-software/ungoogled-chromium) | :white_check_mark: | :white_check_mark: | Slimjet |
+| [Vivaldi](https://vivaldi.com/) | :red_circle: | :ballot_box_with_check: | Vivaldi Technologies |
+| [Opera](https://www.opera.com/) | :red_circle: | :ballot_box_with_check: | Opera Software |
+| [Brave](https://brave.com/) | :red_circle: | :ballot_box_with_check: | Brave Software |
 |  |  |  |  |
 
 > [!NOTE]
