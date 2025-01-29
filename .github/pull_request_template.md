@@ -10,7 +10,7 @@ PULL_REQUEST_DESCRIPTION
 
 - CHANGE_TWO.
 
-- [...]
+- ...
 
 ## Why Did it Change?
 
@@ -22,7 +22,7 @@ PULL_REQUEST_DESCRIPTION
 
 - REASON_TWO.
 
-- [...]
+- ...
 
 ## Acknowledgment
 
@@ -40,4 +40,4 @@ By opening this pull request, I agree to abide by the [Code of Conduct](../blob/
 
 > [!IMPORTANT]
 >
-> ### All the pull requests are required to have the "Acknowledgment" section intact, read, and agreed upon by the contributor.
+> ### All the pull requests must have the "Acknowledgment" section intact, read, and agreed upon by the contributor.
