@@ -2,29 +2,42 @@
 
 # Template for Creating Chromium-based Web Browser Theme
 
+### Template repository for customizing your browsing experience by designing your unique Chromium-based web browser theme from scratch.
+
 > [!TIP]
 >
-> # :star: Star This Repository
+> # ⭐ Star This Repository
 >
-> ### Give a star to this repository if you find it useful.
-
-### Template repository for customizing your browsing experience by designing your unique Chromium-based web browser theme from scratch.
+> ### If you find this theme template and my work useful, please consider supporting me giving a ⭐ star ⭐ to this repository, and [follow me on GitHub](https://github.com/iamprogrammerlk).
 
 ## List of Chromium-based Web Browsers
 
-| Browser | Tested | Theme Supported | Browser Developer |
-| --- | --- | --- | --- |
-| [Google Chrome](https://www.google.com/chrome/) | :white_check_mark: | :white_check_mark: | Google |
-| [Microsoft Edge](https://www.microsoft.com/en-us/edge) | :white_check_mark: | :white_check_mark: | Microsoft |
-| [Ungoogle Chromium](https://github.com/ungoogled-software/ungoogled-chromium) | :white_check_mark: | :white_check_mark: | Slimjet |
-| [Vivaldi](https://vivaldi.com/) | :red_circle: | :ballot_box_with_check: | Vivaldi Technologies |
-| [Opera](https://www.opera.com/) | :red_circle: | :ballot_box_with_check: | Opera Software |
-| [Brave](https://brave.com/) | :red_circle: | :ballot_box_with_check: | Brave Software |
-|  |  |  |  |
+| Browser                       | Tested | Theme Supported | Browser Developer    |
+| ----------------------------- | ------ | --------------- | -------------------- |
+| [Google Chrome][chrome]       | ✅     | ✅              | Google               |
+| [Microsoft Edge][edge]        | ✅     | ✅              | Microsoft            |
+| [Ungoogle Chromium][chromium] | ✅     | ✅              | Slimjet              |
+| [Vivaldi][vivaldi]            | 🔴     | ☑️              | Vivaldi Technologies |
+| [Opera][opera]                | 🔴     | ☑️              | Opera Software       |
+| [Brave][brave]                | 🔴     | ☑️              | Brave Software       |
+|                               |        |                 |                      |
+
+[chrome]: https://www.google.com/chrome/
+[edge]: https://www.microsoft.com/en-us/edge
+[chromium]: https://github.com/ungoogled-software/ungoogled-chromium
+[vivaldi]: https://vivaldi.com/
+[opera]: https://www.opera.com/
+[brave]: https://brave.com/
+
+- ✅ Tested/Supported
+
+- ☑️ Should work in theory
+
+- 🔴 Not Tested
 
 > [!NOTE]
 >
-> ### This theme uses Manifest V3 to ensure compatibility with the latest Chromium extension standards.
+> ### This theme uses `Manifest V3` to ensure compatibility with the latest Chromium extension standards.
 
 ## A sample of the `manifest.json` file containing all supported properties.
 
@@ -129,7 +142,7 @@ Please remove all unused properties from the `manifest.json` file. If you use `i
 
 ---
 
-# :toolbox: Resource
+# 🧰 Resource
 
 - The list of properties supported by the Chromium browser has been extracted from this source.
 
@@ -144,11 +157,11 @@ Please remove all unused properties from the `manifest.json` file. If you use `i
 
 ---
 
-# :two_hearts: Credits
+# 💕 Credits
 
 - I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk)
 
-  > [iamprogrammer.lk](https://iamprogrammer.lk) | [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk) | [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk) | [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
+  [iamprogrammer.lk](https://iamprogrammer.lk) 🔸 [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk) 🔸 [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk) 🔸 [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
 
 - [Contributors](/../../graphs/contributors)
 
@@ -157,7 +170,7 @@ Please remove all unused properties from the `manifest.json` file. If you use `i
 
 ---
 
-# :sparkles: Get Involved
+# ✨ Get Involved
 
 Get in touch with the project developers and the community through our [GitHub Discussions](/../../discussions) forum. View [contributing.md](/contributing.md) for information.
 
@@ -166,7 +179,7 @@ Get in touch with the project developers and the community through our [GitHub D
 
 ---
 
-# :fire: Issues
+# 🔥 Issues
 
 Bug reports and feature requests can be submitted on the [Github Issues](/../../issues).
 
@@ -175,7 +188,7 @@ Bug reports and feature requests can be submitted on the [Github Issues](/../../
 
 ---
 
-# :thumbsup: Code of Conduct
+# 👍 Code of Conduct
 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Code of Conduct](/code_of_conduct.md), [Security Policy](/security.md), and be bound by the terms of the [Contributor License Agreement](/contributor_license_agreement.md).
 
@@ -188,41 +201,41 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 
 ---
 
-# :balance_scale: License
+# ⚖️ License
 
 ### This work is distributed under the [MIT License](https://choosealicense.com/licenses/mit/) License. See [license](/license.md) for more information.
 
 ### Permissions
 
-- :white_check_mark: Commercial use
-- :white_check_mark: Distribution
-- :white_check_mark: Modification
-- :no_entry: ~~Patent use~~
-- :white_check_mark: Private use
+- ✅ Commercial use
+- ✅ Distribution
+- ✅ Modification
+- ⛔ ~~Patent use~~
+- ✅ Private use
 
 ### Conditions
 
-- :no_entry: ~~Disclose source~~
-- :white_check_mark: License and copyright notice
-- :no_entry: ~~Network use is distribution~~
-- :no_entry: ~~Same license~~
-- :no_entry: ~~State changes~~
+- ⛔ ~~Disclose source~~
+- ✅ License and copyright notice
+- ⛔ ~~Network use is distribution~~
+- ⛔ ~~Same license~~
+- ⛔ ~~State changes~~
 
 ### Limitations
 
-- :x: Liability
-- :no_entry: ~~Trademark use~~
-- :x: Warranty
+- 🚫 Liability
+- ⛔ ~~Trademark use~~
+- 🚫 Warranty
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
-# :copyright: Copyright
+# ©️ Copyright
 
-- Copyright © 2025 :sri_lanka: I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk).
-- Copyright © 2025 :heart: [Contributors](/../../graphs/contributors).
+- Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk).
+- Copyright © 2025 ❤️ [Contributors](/../../graphs/contributors).
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
