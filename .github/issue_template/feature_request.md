@@ -10,7 +10,7 @@ assignees: ""
 
 > [!TIP]
 >
-> A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+> A clear and concise description of what the problem is. Ex. `I'm always frustrated when ...`
 
 ## Please Provide a Description of the Solution You Envision.
 

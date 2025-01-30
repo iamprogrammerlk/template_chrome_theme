@@ -18,9 +18,9 @@ assignees: ""
 >
 > Steps to reproduce the behavior:
 >
-> 1. Go to '...'
-> 2. Click on '....'
-> 3. Scroll down to '....'
+> 1. Go to ...
+> 2. Click on ...
+> 3. Scroll down to ...
 > 4. See error
 
 ## Expected Behavior
@@ -43,9 +43,9 @@ assignees: ""
 >
 > Please complete the following information:
 
-- OS: [example: Linux 123.0.0]
-- Browser: [example: Firefox 123.0.0]
-- Version: [example: 123.0.0]
+- OS: `Example: Linux 123.0.0`
+- Browser: `Example: Firefox 123.0.0`
+- Version: `Example: 123.0.0`
 
 ### Smartphone
 
@@ -53,10 +53,10 @@ assignees: ""
 >
 > Please complete the following information:
 
-- Device: [example: Fairphone]
-- OS: [example: Android 123.0.0]
-- Browser: [example: Firefox_Mobile 123.0.0]
-- Version: [example: 123.0.0]
+- Device: `Example: Fairphone`
+- OS: `Example: Android 123.0.0`
+- Browser: `Example: Firefox_Mobile 123.0.0`
+- Version: `Example: 123.0.0`
 
 ## Additional Context
 

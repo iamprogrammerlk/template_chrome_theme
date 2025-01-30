@@ -8,13 +8,13 @@
 
 You can visit the [Issues](/../../issues) section to propose changes or features. Please ensure that your suggestion hasn't already been made and is not in the works.
 
-Help prioritize [issues](/../../issues) by adding a ":thumbsup:" reaction to new features you'd like to see in this project or problems that affect you.
+Help prioritize [issues](/../../issues) by adding a "👍" reaction to new features you'd like to see in this project or problems that affect you.
 
 Assist the project by helping other users, enhancing the documentation, or validating security measures.
 
 > [!TIP]
 >
-> ### Don't forget to follow the project and leave a :star: GitHub Star :star:.
+> ### Don't forget to follow the project and leave a ⭐ GitHub Star ⭐.
 
 ## Contributions
 
